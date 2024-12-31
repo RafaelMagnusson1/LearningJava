@@ -16,6 +16,7 @@ public class Variaveis {
 
         System.out.println(name);
         System.out.println(salario);
+        System.out.println(preco);
 
         //Variable processing
 
